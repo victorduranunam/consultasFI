@@ -1,0 +1,20 @@
+#widget-noticias .entry {
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+
+#widget-noticias img {
+    width: 100%;
+    height: auto;
+}
+
+#widget-noticias h3 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+#widget-noticias .entry-meta {
+    font-size: 13px;
+    color: #777;
+}

@@ -1,0 +1,18 @@
+<script src="https://www.ingenieria.unam.mx/consultasfi/widgets/widget-noticias.js"></script>
+
+<widget-noticias 
+    api="https://www.ingenieria.unam.mx/consultasfi/api/Noticias/recientes?limit=5">
+</widget-noticias>
+
+
+
+<script src="https://www.ingenieria.unam.mx/consultasfi/widgets/widget-carrusel-noticias.js"></script>
+
+<widget-carrusel 
+    api="https://www.ingenieria.unam.mx/consultasfi/api/Noticias/recientes?limit=10">
+</widget-carrusel>
+
+
+<widget-carrusel 
+    api="https://www.ingenieria.unam.mx/consultasfi/api/Noticias/persona?nombre=Rosalba">
+</widget-carrusel>
